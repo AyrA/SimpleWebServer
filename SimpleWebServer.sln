@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWebServer", "SimpleWebServer\SimpleWebServer.csproj", "{C26B8D36-EFB6-4A5C-9C4C-D4085EF981C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Engine", "Engine\Engine.csproj", "{92F29939-CE3E-4F50-8CA5-E9C29062EA28}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C26B8D36-EFB6-4A5C-9C4C-D4085EF981C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C26B8D36-EFB6-4A5C-9C4C-D4085EF981C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C26B8D36-EFB6-4A5C-9C4C-D4085EF981C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92F29939-CE3E-4F50-8CA5-E9C29062EA28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92F29939-CE3E-4F50-8CA5-E9C29062EA28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92F29939-CE3E-4F50-8CA5-E9C29062EA28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92F29939-CE3E-4F50-8CA5-E9C29062EA28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

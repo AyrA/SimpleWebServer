@@ -4,11 +4,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("SimpleWebServer")]
+[assembly: AssemblyTitle("Engine")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("AyrA")]
-[assembly: AssemblyProduct("SimpleWebServer")]
+[assembly: AssemblyProduct("Engine")]
 [assembly: AssemblyCopyright("Copyright © AyrA 2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -19,7 +19,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("c26b8d36-efb6-4a5c-9c4c-d4085ef981c3")]
+[assembly: Guid("92f29939-ce3e-4f50-8ca5-e9c29062ea28")]
 
 // Version information for an assembly consists of the following four values:
 //
